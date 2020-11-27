@@ -116,8 +116,8 @@ Para a criação do código, se faz necessário uma planilha de apoio oriunda da
 Com a planilha de apoio criada, ainda havia o esforço de enviar os emails, e visando corrigir essa dificuldade, o código em VBA a seguir foi inserido na planilha de apoio:
 
 ´´´´
-Sub enviar_email_planilha_1()
-    
+
+    Sub enviar_email_planilha_1()
     'Cria as variáveis do Outlook
     Dim outapp As Outlook.Application
     Dim outmail As Outlook.MailItem
