@@ -1,6 +1,6 @@
 ![background](https://github.com/kawanbez/automatizacao_cobranca_vba/blob/main/bg2.png)
 
-# Automatização do Processo de Cobrança - VBA & Mysql
+# Automatização do Processo de Cobrança - VBA & MySQL
 
 Inicialmente o processo de cobrança na empresa em que atuo era totalmente manual, conforme o seguinte processo:
 
