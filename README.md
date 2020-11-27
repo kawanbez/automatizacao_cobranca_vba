@@ -163,4 +163,4 @@ Em resumo, com base nas orientações do cabeçalho das abas da planilha, o cód
 
 ### Conclusão
 
-Após a criação do régua de cobrança e automatização de processos, pegamos todos os clientes que ainda não haviam sido transferidos para PDD e assim a equipe financeira e de cobranças conseguiu recuperar até o final de 2019 (Ago/2019 a Dez/2019), pouco mais de 1,9 milhão de reais de forma organizada, visando sempre isentar os clientes de cobranças indevidas e facilitar o time de cobrança com menos trabalho manual. 
+Após a criação do régua de cobrança e automatização de processos, pegamos todos os clientes que ainda não haviam sido transferidos para PDD e assim a equipe financeira e de cobranças conseguiu recuperar até o final de 2019 (Ago/2019 a Dez/2019), pouco mais de 1,9 milhão de reais de forma organizada, visando sempre isentar os clientes de cobranças indevidas e facilitar os processos do time de cobrança com menos trabalho manual e mais assertividade. 
