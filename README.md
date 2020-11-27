@@ -40,7 +40,7 @@ SELECT o.id
   , IFNULL(u.email,'')                     AS 'sales email'
   , CONVERT(o.created_at, DATE)            AS 'order created at'
   , i.file_url                             AS 'URL NF'
-FROM alpha.order                           AS o
+FROM banco_de_dados                          AS o
 LEFT JOIN order_invoice                    AS i   ON o.id = i.order_id
 LEFT JOIN customer                        AS c   ON o.customer_id = c.id
 LEFT JOIN order_payment_transaction       AS opt ON o.id = opt.order_id
@@ -72,7 +72,7 @@ SELECT o.id
   , IFNULL(u.email,'')                     AS 'sales email'
   , CONVERT(o.created_at, DATE)            AS 'order created at'
   , i.file_url                             AS 'URL NF'
-FROM alpha.order                           AS o
+FROM banco_de_dados                           AS o
 LEFT JOIN order_invoice                    AS i   ON o.id = i.order_id
 LEFT JOIN customer                        AS c   ON o.customer_id = c.id
 LEFT JOIN order_payment_transaction       AS opt ON o.id = opt.order_id
